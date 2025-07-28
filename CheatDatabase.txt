@@ -44,6 +44,6 @@ files=BLOODY.accesswidener,bloody.mixins.json,bloody-refmap.json,LICENSE_bloody,
 dirs=assets/bloody,com/artik
 
 [Flight Addon]
-key_files=ru/lauma
+key_files=pack.mcmeta
 files=ru/lauma
 dirs=ru/lauma
