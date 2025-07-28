@@ -42,3 +42,8 @@ dirs=net/caffeinemc/phosphor,assets/phosphor
 key_files=BLOODY.accesswidener
 files=BLOODY.accesswidener,bloody.mixins.json,bloody-refmap.json,LICENSE_bloody,com/artik/AbCDEFGhijKlmNOPqrStuvWxYZ.class
 dirs=assets/bloody,com/artik
+
+[Flight Addon]
+key_files=ru/lauma
+files=ru/lauma
+dirs=ru/lauma
